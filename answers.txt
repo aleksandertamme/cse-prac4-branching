@@ -1,0 +1,5 @@
+1. 6 branches(master branch, 5 stale branches(index, bower, package, 
+landing-ru, landing))
+2. index branch
+3. 16
+4. Added package, Added locked package, Removed lock
